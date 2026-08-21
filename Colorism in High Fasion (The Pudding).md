@@ -5,7 +5,7 @@ https://pudding.cool/2019/04/vogue/
 
 La webstory analiza 19 años de portadas de la revista Vogue para estudiar cómo se representan mujeres con diferentes tonos de piel y preguntarse si, pese al aumento de la diversidad racial, las mujeres de piel más oscura continúan estando subrepresentadas. La historia parte del concepto de _colorismo_, entendido como la preferencia por tonos de piel más claros dentro de determinados grupos raciales y étnicos.
 
-## ¿Por qué me pareció interesante?
+## ¿Por qué me pareció interesante? 
 
 La historia me pareció interesante porque aborda un problema que suele discutirse de forma acotada y generalmente con métodos cualitativos. No se limita solo a constatar un aumento de la diversidad, sino que cuestiona qué tan representativa es realmente y cómo esto se evidencia en el número de portadas, sus protagonistas, el Photoshop, etc. 
 
